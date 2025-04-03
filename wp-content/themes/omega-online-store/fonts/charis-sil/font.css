@@ -1,0 +1,10 @@
+@font-face {
+	font-family: 'charis-sil';
+	src: url('charis-sil.eot');
+	src: local('charis sil'),
+		url('charis-sil.eot?#iefix') format('embedded-opentype'),
+		url('charis-sil.woff2') format('woff2'),
+		url('charis-sil.woff') format('woff'),
+		url('charis-sil.ttf') format('truetype'),
+		url('charis-sil.svg#CharisSIL') format('svg');
+}

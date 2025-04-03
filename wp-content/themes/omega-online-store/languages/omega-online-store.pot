@@ -1,0 +1,1437 @@
+# Copyright (C) 2025 Omega Themes
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Omega Online Store 1.1.6\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/omega-online-store\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-03-13T04:45:14+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: omega-online-store\n"
+
+#. Theme Name of the theme
+#: style.css
+#: inc/custom-functions.php:377
+msgid "Omega Online Store"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://www.omegathemes.com/products/free-store-wordpress-theme"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "Omega Online Store is a versatile and user-friendly WordPress theme designed to empower your e-commerce journey. This theme is a game-changer for businesses seeking a visually appealing and seamlessly functional online store. Boasting a clean and modern design, Omega ensures your products take center stage, creating an immersive shopping experience for your customers. Omega Online Store comes with a user-friendly interface that simplifies the online shopping process, allowing buyers to effortlessly browse, select, and purchase products. The responsive design ensures your store looks impeccable on various devices, from desktops to smartphones, catering to the diverse preferences of your customers. This theme is not just about aesthetics—it’s designed to optimize functionality. With Omega, you can seamlessly integrate essential e-commerce features like product categorization, search functionalities, and a secure checkout process, enhancing the overall user experience. Versatility is a key strength of the Omega Online Store WordPress Theme, accommodating a wide range of businesses and industries. Whether you’re selling fashion, designer clothing, wearable tech, handmade jewelry, fashion accessories, smart gadgets, artisanal crafts, boutique fashion, consumer electronics, handmade home decor, luxury fashion, electronics accessories, DIY crafts, sustainable fashion, tech gadgets, handcrafted gifts, clothing trends, mobile devices, handmade accessories, couture fashion, electronics deals, handmade textiles, fashion boutiques, electronic gadgets, custom crafts, wearable electronics, fashion brands, digital devices, craft fairs, fashion trends, electronic sales, and handmade clothing, electronics, or handmade crafts, Omega provides the flexibility and scalability to meet the unique needs of your online store. The Omega Online Store WordPress Theme is a powerful ally for businesses entering or expanding their online retail space. Its intuitive design, customization options, and functional features make it a beneficial investment for those seeking a visually appealing, user-friendly, and efficient online shopping platform."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "Omega Themes"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://www.omegathemes.com/"
+msgstr ""
+
+#: 404.php:13
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:23
+msgid "Maybe its out there, somewhere..."
+msgstr ""
+
+#: 404.php:24
+msgid "You can always find insightful stories on our"
+msgstr ""
+
+#: 404.php:24
+msgid "Homepage"
+msgstr ""
+
+#: 404.php:31
+msgid "Still feeling lost? Youre not alone."
+msgstr ""
+
+#: 404.php:32
+msgid "Enjoy these stories about getting lost, losing things, and finding what you never knew you were looking for."
+msgstr ""
+
+#. translators: %d: ID of a post.
+#: classes/class-walker-menu.php:76
+msgid "#%d (no title)"
+msgstr ""
+
+#: classes/class-walker-menu.php:120
+#: inc/custom-functions.php:45
+msgid "Show sub menu"
+msgstr ""
+
+#. translators: 1: title.
+#: comments.php:22
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:28
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:52
+msgid "Comments are closed."
+msgstr ""
+
+#. Template Name of the theme
+msgid "Front Page Template"
+msgstr ""
+
+#: functions.php:167
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:205
+msgid "https://layout.omegathemes.com/steps/pro-omega-online-store/"
+msgstr ""
+
+#: functions.php:208
+msgid "https://www.omegathemes.com/products/online-store-wordpress-theme"
+msgstr ""
+
+#: functions.php:211
+msgid "https://wordpress.org/support/theme/omega-online-store/"
+msgstr ""
+
+#: functions.php:214
+msgid "https://wordpress.org/support/theme/omega-online-store/reviews/#new-post/"
+msgstr ""
+
+#: functions.php:217
+msgid "https://layout.omegathemes.com/omega-online-store/"
+msgstr ""
+
+#: functions.php:220
+msgid "https://layout.omegathemes.com/steps/free-omega-online-store/"
+msgstr ""
+
+#: functions.php:223
+msgid "https://www.omegathemes.com/products/wp-theme-bundle"
+msgstr ""
+
+#: functions.php:298
+msgid "Welcome! Thank you for choosing Omega Online Store. Let’s Set Up Your Website!"
+msgstr ""
+
+#: functions.php:299
+msgid "Before you dive into customization, let’s go through a quick setup process to ensure everything runs smoothly. Click below to start setting up your website in minutes!"
+msgstr ""
+
+#: functions.php:301
+msgid "Get Started with Omega Online Store"
+msgstr ""
+
+#: functions.php:303
+msgid "Dismiss"
+msgstr ""
+
+#: header.php:36
+msgid "Skip to the content"
+msgstr ""
+
+#: inc/custom-functions.php:162
+msgid "-- Select Category --"
+msgstr ""
+
+#: inc/custom-functions.php:199
+msgid "Previous post:"
+msgstr ""
+
+#: inc/custom-functions.php:200
+msgid "Next post:"
+msgstr ""
+
+#: inc/custom-functions.php:236
+msgid "Close"
+msgstr ""
+
+#: inc/custom-functions.php:242
+#: template-parts/header/header-layout.php:111
+msgid "Horizontal"
+msgstr ""
+
+#: inc/custom-functions.php:314
+msgid "Footer Image"
+msgstr ""
+
+#: inc/custom-functions.php:319
+msgid "Omega Online Store is a versatile and user-friendly WordPress theme designed to empower your e-commerce journey. This theme is a game-changer for businesses seeking a visually appealing and seamlessly functional online store. Boasting a clean and modern design, Omega ensures your products take center stage, creating an immersive shopping experience for your customers."
+msgstr ""
+
+#: inc/custom-functions.php:326
+msgid "Calendar"
+msgstr ""
+
+#: inc/custom-functions.php:332
+msgid "Enter Keywords Here"
+msgstr ""
+
+#: inc/custom-functions.php:377
+msgid "Theme: "
+msgstr ""
+
+#: inc/custom-functions.php:377
+msgid " By "
+msgstr ""
+
+#: inc/custom-functions.php:377
+msgid "OMEGA "
+msgstr ""
+
+#: inc/custom-functions.php:378
+msgid "Powered by "
+msgstr ""
+
+#: inc/custom-functions.php:378
+msgid "WordPress"
+msgstr ""
+
+#: inc/custom-functions.php:378
+msgid "WordPress."
+msgstr ""
+
+#: inc/custom-functions.php:388
+msgid "To the Top"
+msgstr ""
+
+#: inc/custom-functions.php:469
+msgid "Shop Collections"
+msgstr ""
+
+#: inc/custom-functions.php:576
+msgid "Video"
+msgstr ""
+
+#: inc/custom-functions.php:579
+msgid "Audio"
+msgstr ""
+
+#: inc/custom-functions.php:582
+msgid "Gallery"
+msgstr ""
+
+#: inc/custom-functions.php:585
+msgid "Quote"
+msgstr ""
+
+#: inc/custom-functions.php:588
+#: inc/metabox.php:59
+msgid "Image"
+msgstr ""
+
+#: inc/customizer/additional-woocommerce.php:13
+msgid "Additional Woocommerce Options"
+msgstr ""
+
+#: inc/customizer/additional-woocommerce.php:29
+msgid "Product Per Column"
+msgstr ""
+
+#: inc/customizer/additional-woocommerce.php:49
+msgid "Product Per Page"
+msgstr ""
+
+#: inc/customizer/additional-woocommerce.php:69
+msgid "Enable Related Products"
+msgstr ""
+
+#: inc/customizer/colors.php:21
+msgid "Text Color"
+msgstr ""
+
+#: inc/customizer/colors.php:39
+msgid "Border Color"
+msgstr ""
+
+#: inc/customizer/custom-addon.php:12
+msgid "Customizer Custom Settings"
+msgstr ""
+
+#: inc/customizer/custom-addon.php:28
+msgid "Enable Preloader"
+msgstr ""
+
+#: inc/customizer/custom-addon.php:46
+msgid "Enable Pagination"
+msgstr ""
+
+#: inc/customizer/custom-addon.php:62
+msgid "Pagination Style"
+msgstr ""
+
+#: inc/customizer/custom-addon.php:66
+msgid "Numeric (Page Numbers)"
+msgstr ""
+
+#: inc/customizer/custom-addon.php:67
+msgid "Newer/Older (Previous/Next)"
+msgstr ""
+
+#: inc/customizer/custom-addon.php:81
+msgid "Pagination Alignment"
+msgstr ""
+
+#: inc/customizer/custom-addon.php:85
+#: inc/customizer/custom-addon.php:120
+#: inc/customizer/footer.php:68
+#: inc/customizer/post.php:109
+#: inc/customizer/post.php:129
+msgid "Center"
+msgstr ""
+
+#: inc/customizer/custom-addon.php:86
+#: inc/customizer/custom-addon.php:121
+#: inc/customizer/footer.php:69
+#: inc/customizer/post.php:110
+#: inc/customizer/post.php:130
+msgid "Right"
+msgstr ""
+
+#: inc/customizer/custom-addon.php:87
+#: inc/customizer/custom-addon.php:122
+#: inc/customizer/footer.php:67
+#: inc/customizer/post.php:108
+#: inc/customizer/post.php:128
+msgid "Left"
+msgstr ""
+
+#: inc/customizer/custom-addon.php:101
+msgid "Enable Breadcrumb"
+msgstr ""
+
+#: inc/customizer/custom-addon.php:116
+msgid "Breadcrumb Alignment"
+msgstr ""
+
+#: inc/customizer/custom-addon.php:136
+msgid "Breadcrumb Font Size"
+msgstr ""
+
+#: inc/customizer/customizer.php:32
+msgid "Color Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:53
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:61
+msgid "Color Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:70
+#: inc/customizer/footer.php:12
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:79
+msgid "Frontpage Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:88
+msgid "Theme Addons"
+msgstr ""
+
+#: inc/customizer/customizer.php:97
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:111
+msgid "Logo width"
+msgstr ""
+
+#: inc/customizer/customizer.php:112
+msgid "Specify the range for logo size with a minimum of 200px and a maximum of 700px, in increments of 20px."
+msgstr ""
+
+#: inc/customizer/customizer.php:132
+msgid "Online Store Pro"
+msgstr ""
+
+#: inc/customizer/customizer.php:133
+msgid "Upgrade To Pro"
+msgstr ""
+
+#: inc/customizer/customizer.php:145
+msgid "Buy WP Theme Bundle"
+msgstr ""
+
+#: inc/customizer/customizer.php:146
+msgid "Get Bundle"
+msgstr ""
+
+#: inc/customizer/default.php:16
+msgid "support@example.com"
+msgstr ""
+
+#: inc/customizer/default.php:17
+msgid "Free International Shipping On Order Over $60"
+msgstr ""
+
+#: inc/customizer/default.php:33
+msgid "All rights reserved."
+msgstr ""
+
+#: inc/customizer/default.php:47
+msgid "Best Sellers"
+msgstr ""
+
+#: inc/customizer/default.php:48
+msgid "View All Products"
+msgstr ""
+
+#: inc/customizer/default.php:49
+msgid "#"
+msgstr ""
+
+#: inc/customizer/default.php:62
+msgid "To The Top"
+msgstr ""
+
+#: inc/customizer/footer.php:28
+msgid "Enable Footer"
+msgstr ""
+
+#: inc/customizer/footer.php:43
+msgid "Footer Column Layout"
+msgstr ""
+
+#: inc/customizer/footer.php:47
+msgid "One Column"
+msgstr ""
+
+#: inc/customizer/footer.php:48
+msgid "Two Column"
+msgstr ""
+
+#: inc/customizer/footer.php:49
+msgid "Three Column"
+msgstr ""
+
+#: inc/customizer/footer.php:63
+msgid "Footer Widget Title Alignment"
+msgstr ""
+
+#: inc/customizer/footer.php:83
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: inc/customizer/footer.php:98
+msgid "Copyright Font Size"
+msgstr ""
+
+#: inc/customizer/footer.php:114
+msgid "Footer Widget Background Color"
+msgstr ""
+
+#: inc/customizer/footer.php:115
+msgid "It will change the complete footer widget background color."
+msgstr ""
+
+#: inc/customizer/footer.php:125
+msgid "Footer Widget Background Image"
+msgstr ""
+
+#: inc/customizer/footer.php:138
+msgid "Enable To The Top"
+msgstr ""
+
+#: inc/customizer/footer.php:153
+msgid "Edit Text Here"
+msgstr ""
+
+#: inc/customizer/global-color-setting.php:13
+msgid "Global Color Settings"
+msgstr ""
+
+#: inc/customizer/global-color-setting.php:32
+msgid "Global Color"
+msgstr ""
+
+#: inc/customizer/header-button.php:13
+msgid "Header Settings"
+msgstr ""
+
+#: inc/customizer/header-button.php:29
+msgid "Header Shipping Text"
+msgstr ""
+
+#: inc/customizer/header-button.php:44
+msgid "Header Email Address"
+msgstr ""
+
+#: inc/customizer/header-button.php:59
+msgid "Enable Google Translator"
+msgstr ""
+
+#: inc/customizer/header-button.php:74
+msgid "Menu Font Size"
+msgstr ""
+
+#: inc/customizer/header-button.php:94
+msgid "Menu Text Transform"
+msgstr ""
+
+#: inc/customizer/header-button.php:98
+msgid "Capitalize"
+msgstr ""
+
+#: inc/customizer/header-button.php:99
+msgid "Uppercase"
+msgstr ""
+
+#: inc/customizer/header-button.php:100
+msgid "Lowercase"
+msgstr ""
+
+#: inc/customizer/header-button.php:114
+msgid "Enable Sticky Header"
+msgstr ""
+
+#: inc/customizer/homepage-content.php:13
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/customizer/homepage-content.php:29
+msgid "Enable / Disable Tagline"
+msgstr ""
+
+#: inc/customizer/homepage-content.php:44
+msgid "Enable Slider"
+msgstr ""
+
+#: inc/customizer/homepage-content.php:59
+msgid "Slider Post Category"
+msgstr ""
+
+#: inc/customizer/homepage-content.php:70
+msgid "Product Settings"
+msgstr ""
+
+#: inc/customizer/homepage-content.php:86
+msgid "Product Title"
+msgstr ""
+
+#: inc/customizer/homepage-content.php:101
+msgid "Enable Wishlist"
+msgstr ""
+
+#: inc/customizer/homepage-content.php:139
+msgid "Select category to display products "
+msgstr ""
+
+#: inc/customizer/layout-setting.php:13
+msgid "Sidebar Settings"
+msgstr ""
+
+#: inc/customizer/layout-setting.php:29
+msgid "Global Sidebar Layout"
+msgstr ""
+
+#: inc/customizer/layout-setting.php:33
+#: inc/customizer/layout-setting.php:51
+#: inc/customizer/layout-setting.php:68
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/customizer/layout-setting.php:34
+#: inc/customizer/layout-setting.php:52
+#: inc/customizer/layout-setting.php:69
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/customizer/layout-setting.php:35
+#: inc/customizer/layout-setting.php:53
+#: inc/customizer/layout-setting.php:70
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/customizer/layout-setting.php:47
+msgid "Single Page Sidebar Layout"
+msgstr ""
+
+#: inc/customizer/layout-setting.php:64
+msgid "Single Post Sidebar Layout"
+msgstr ""
+
+#: inc/customizer/layout-setting.php:83
+msgid "Enable/Disable Sticky Sidebar"
+msgstr ""
+
+#: inc/customizer/post.php:13
+msgid "Single Meta Information Settings"
+msgstr ""
+
+#: inc/customizer/post.php:29
+msgid "Enable Single Posts Image"
+msgstr ""
+
+#: inc/customizer/post.php:44
+msgid "Enable Posts Author"
+msgstr ""
+
+#: inc/customizer/post.php:59
+msgid "Enable Posts Date"
+msgstr ""
+
+#: inc/customizer/post.php:74
+#: inc/customizer/post.php:184
+msgid "Enable Posts Category"
+msgstr ""
+
+#: inc/customizer/post.php:89
+msgid "Enable Posts Tags"
+msgstr ""
+
+#: inc/customizer/post.php:104
+msgid "Single Page Content Alignment"
+msgstr ""
+
+#: inc/customizer/post.php:124
+msgid "Single Post Content Alignment"
+msgstr ""
+
+#: inc/customizer/post.php:138
+msgid "Archive Meta Information Settings"
+msgstr ""
+
+#: inc/customizer/post.php:154
+msgid "Enable Post Format Icon"
+msgstr ""
+
+#: inc/customizer/post.php:169
+msgid "Enable Posts Image"
+msgstr ""
+
+#: inc/customizer/post.php:199
+msgid "Enable Posts Title"
+msgstr ""
+
+#: inc/customizer/post.php:214
+msgid "Enable Posts Content"
+msgstr ""
+
+#: inc/customizer/post.php:229
+msgid "Enable Posts Button"
+msgstr ""
+
+#: inc/customizer/post.php:244
+msgid "Blog Post Excerpt limit"
+msgstr ""
+
+#: inc/customizer/social-media.php:13
+msgid "Social Media Settings"
+msgstr ""
+
+#: inc/customizer/social-media.php:29
+msgid "Facebook Link"
+msgstr ""
+
+#: inc/customizer/social-media.php:44
+msgid "Twitter Link"
+msgstr ""
+
+#: inc/customizer/social-media.php:59
+msgid "Pintrest Link"
+msgstr ""
+
+#: inc/customizer/social-media.php:74
+msgid "Instagram Link"
+msgstr ""
+
+#: inc/customizer/social-media.php:89
+msgid "Youtube Link"
+msgstr ""
+
+#: inc/customizer/typography.php:13
+msgid "Typography Settings"
+msgstr ""
+
+#: inc/customizer/typography.php:22
+msgid "Default Font"
+msgstr ""
+
+#: inc/customizer/typography.php:46
+msgid "General Content Font"
+msgstr ""
+
+#: inc/customizer/typography.php:60
+msgid "General Heading Font"
+msgstr ""
+
+#: inc/homepage-setup/homepage-setup-contents.php:179
+msgid "Failed to find TGM"
+msgstr ""
+
+#: inc/homepage-setup/homepage-setup-contents.php:207
+msgid "WP Theme Bundle"
+msgstr ""
+
+#: inc/homepage-setup/homepage-setup-contents.php:214
+#: inc/homepage-setup/homepage-setup-contents.php:292
+msgid "Theme Bundle Image"
+msgstr ""
+
+#: inc/homepage-setup/homepage-setup-contents.php:218
+msgid "SHOP NOW"
+msgstr ""
+
+#: inc/homepage-setup/homepage-setup-contents.php:275
+msgid "Free Documentation"
+msgstr ""
+
+#: inc/homepage-setup/homepage-setup-contents.php:276
+msgid "Get Premium"
+msgstr ""
+
+#: inc/homepage-setup/homepage-setup-contents.php:277
+msgid "Premium Demo"
+msgstr ""
+
+#: inc/homepage-setup/homepage-setup-contents.php:278
+msgid "Support Forum"
+msgstr ""
+
+#: inc/homepage-setup/homepage-setup-contents.php:298
+msgid "Upgrade To Pro With Just $40"
+msgstr ""
+
+#: inc/homepage-setup/homepage-setup-contents.php:321
+#: inc/homepage-setup/homepage-setup-settings.php:29
+msgid "Install and Activate Essential Plugins"
+msgstr ""
+
+#: inc/homepage-setup/homepage-setup-contents.php:325
+#: inc/homepage-setup/homepage-setup-settings.php:31
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/homepage-setup/homepage-setup-contents.php:330
+#: inc/homepage-setup/homepage-setup-settings.php:36
+msgid "Setup Home Page"
+msgstr ""
+
+#: inc/homepage-setup/homepage-setup-contents.php:334
+#: inc/homepage-setup/homepage-setup-settings.php:38
+msgid "Start Home Page Setup"
+msgstr ""
+
+#: inc/homepage-setup/homepage-setup-contents.php:339
+#: inc/homepage-setup/homepage-setup-contents.php:426
+#: inc/homepage-setup/homepage-setup-settings.php:43
+msgid "Customize Your Site"
+msgstr ""
+
+#: inc/homepage-setup/homepage-setup-contents.php:423
+msgid "View Your Site"
+msgstr ""
+
+#: inc/homepage-setup/homepage-setup-contents.php:429
+msgid "Finsh"
+msgstr ""
+
+#: inc/homepage-setup/homepage-setup-contents.php:487
+msgid "No Slug Found"
+msgstr ""
+
+#: inc/homepage-setup/homepage-setup-contents.php:504
+msgid "Activating Plugin"
+msgstr ""
+
+#: inc/homepage-setup/homepage-setup-contents.php:519
+msgid "Updating Plugin"
+msgstr ""
+
+#: inc/homepage-setup/homepage-setup-contents.php:534
+msgid "Installing Plugin"
+msgstr ""
+
+#: inc/homepage-setup/homepage-setup-contents.php:543
+msgid "Success"
+msgstr ""
+
+#: inc/homepage-setup/homepage-setup-contents.php:563
+#: lib/breadcrumbs/breadcrumbs.php:310
+msgid "Home"
+msgstr ""
+
+#: inc/homepage-setup/homepage-setup-contents.php:573
+msgid "About"
+msgstr ""
+
+#: inc/homepage-setup/homepage-setup-contents.php:584
+msgid "Services"
+msgstr ""
+
+#: inc/homepage-setup/homepage-setup-contents.php:596
+msgid "Shop"
+msgstr ""
+
+#: inc/homepage-setup/homepage-setup-contents.php:608
+msgid "Blog"
+msgstr ""
+
+#: inc/homepage-setup/homepage-setup-contents.php:619
+msgid "404 Page"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:386
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:827
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2533
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:387
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:388
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:934
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:1121
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:3509
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:3509
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/homepage-setup/tgm/tgm.php:11
+msgid "WooCommerce Currency Switcher"
+msgstr ""
+
+#: inc/homepage-setup/tgm/tgm.php:18
+msgid "Google Language Translator"
+msgstr ""
+
+#: inc/homepage-setup/tgm/tgm.php:25
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/homepage-setup/tgm/tgm.php:32
+msgid "TI WooCommerce Wishlist"
+msgstr ""
+
+#: inc/metabox.php:12
+msgid "Global sidebar"
+msgstr ""
+
+#: inc/metabox.php:17
+msgid "Right sidebar"
+msgstr ""
+
+#: inc/metabox.php:22
+msgid "Left sidebar"
+msgstr ""
+
+#: inc/metabox.php:27
+msgid "No sidebar"
+msgstr ""
+
+#: inc/metabox.php:36
+msgid "Category Image"
+msgstr ""
+
+#: inc/metabox.php:37
+#: inc/metabox.php:67
+#: inc/metabox.php:74
+msgid "Upload Image"
+msgstr ""
+
+#: inc/metabox.php:38
+#: inc/metabox.php:68
+#: inc/metabox.php:75
+msgid "Remove Image"
+msgstr ""
+
+#: inc/pagination.php:26
+msgid "&laquo; Newer"
+msgstr ""
+
+#: inc/pagination.php:27
+msgid "Older &raquo;"
+msgstr ""
+
+#: inc/pagination.php:28
+#: inc/pagination.php:38
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/pagination.php:35
+msgid "&laquo; Previous"
+msgstr ""
+
+#: inc/pagination.php:36
+msgid "Next &raquo;"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:276
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:298
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/widgets/widgets.php:11
+msgid "Main Sidebar"
+msgstr ""
+
+#: inc/widgets/widgets.php:13
+#: inc/widgets/widgets.php:33
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/widgets/widgets.php:26
+msgid "One"
+msgstr ""
+
+#: inc/widgets/widgets.php:27
+msgid "Two"
+msgstr ""
+
+#: inc/widgets/widgets.php:28
+msgid "Three"
+msgstr ""
+
+#: inc/widgets/widgets.php:31
+msgid "Footer Widget "
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:308
+msgid "Browse:"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:309
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:311
+msgid "404 Not Found"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:312
+msgid "Archives"
+msgstr ""
+
+#. Translators: %s is the search query.
+#: lib/breadcrumbs/breadcrumbs.php:314
+msgid "Search results for: %s"
+msgstr ""
+
+#. Translators: %s is the page number.
+#: lib/breadcrumbs/breadcrumbs.php:316
+msgid "Page %s"
+msgstr ""
+
+#. Translators: %s is the page number.
+#: lib/breadcrumbs/breadcrumbs.php:318
+msgid "Comment Page %s"
+msgstr ""
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: lib/breadcrumbs/breadcrumbs.php:320
+msgid "Minute %s"
+msgstr ""
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: lib/breadcrumbs/breadcrumbs.php:322
+msgid "Week %s"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:782
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:799
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:816
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:832
+#: lib/breadcrumbs/breadcrumbs.php:861
+#: lib/breadcrumbs/breadcrumbs.php:888
+#: lib/breadcrumbs/breadcrumbs.php:915
+#: lib/breadcrumbs/breadcrumbs.php:1255
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:833
+#: lib/breadcrumbs/breadcrumbs.php:889
+#: lib/breadcrumbs/breadcrumbs.php:1259
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:834
+#: lib/breadcrumbs/breadcrumbs.php:1263
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:862
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: searchform.php:11
+msgid "Search..."
+msgstr ""
+
+#: template-parts/content-none.php:11
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: %1$s: Link to create a new post.
+#: template-parts/content-none.php:22
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:33
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:40
+msgid "It seems we can’t find what you’re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/content-single.php:27
+msgid "Omega Online Store Default Image"
+msgstr ""
+
+#. translators: %s: Name of current post.
+#: template-parts/content-single.php:69
+msgid "Read More %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: template-parts/content-single.php:74
+#: template-parts/content.php:82
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content.php:89
+msgid "Read More"
+msgstr ""
+
+#: template-parts/header/header-layout.php:90
+msgid "My Account"
+msgstr ""
+
+#: template-parts/header/header-layout.php:93
+msgid "Login / Register"
+msgstr ""
+
+#: template-parts/header/header-layout.php:99
+msgid "shopping cart"
+msgstr ""

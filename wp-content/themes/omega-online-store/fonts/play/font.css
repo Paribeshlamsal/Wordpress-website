@@ -1,0 +1,10 @@
+@font-face {
+	font-family: 'play';
+	src: url('play.eot');
+	src: local('play'),
+		url('play.eot?#iefix') format('embedded-opentype'),
+		url('play.woff2') format('woff2'),
+		url('play.woff') format('woff'),
+		url('play.ttf') format('truetype'),
+		url('play.svg#Play') format('svg');
+}

@@ -1,0 +1,10 @@
+@font-face {
+	font-family: 'bad-script';
+	src: url('bad-script.eot');
+	src: local('bad script'),
+		url('bad-script.eot?#iefix') format('embedded-opentype'),
+		url('bad-script.woff2') format('woff2'),
+		url('bad-script.woff') format('woff'),
+		url('bad-script.ttf') format('truetype'),
+		url('bad-script.svg#BadScript') format('svg');
+}

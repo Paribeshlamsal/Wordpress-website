@@ -1,0 +1,10 @@
+@font-face {
+	font-family: 'bitter';
+	src: url('bitter.eot');
+	src: local('bitter'),
+		url('bitter.eot?#iefix') format('embedded-opentype'),
+		url('bitter.woff2') format('woff2'),
+		url('bitter.woff') format('woff'),
+		url('bitter.ttf') format('truetype'),
+		url('bitter.svg#Bitter') format('svg');
+}

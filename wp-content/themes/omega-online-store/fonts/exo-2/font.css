@@ -1,0 +1,10 @@
+@font-face {
+	font-family: 'exo-2';
+	src: url('exo-2.eot');
+	src: local('exo 2'),
+		url('exo-2.eot?#iefix') format('embedded-opentype'),
+		url('exo-2.woff2') format('woff2'),
+		url('exo-2.woff') format('woff'),
+		url('exo-2.ttf') format('truetype'),
+		url('exo-2.svg#Exo2') format('svg');
+}

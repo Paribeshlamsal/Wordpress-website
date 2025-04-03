@@ -1,0 +1,10 @@
+@font-face {
+	font-family: 'jost';
+	src: url('jost.eot');
+	src: local('jost'),
+		url('jost.eot?#iefix') format('embedded-opentype'),
+		url('jost.woff2') format('woff2'),
+		url('jost.woff') format('woff'),
+		url('jost.ttf') format('truetype'),
+		url('jost.svg#Jost') format('svg');
+}
